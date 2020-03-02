@@ -1,0 +1,35 @@
+Section 0 Section size 5
+
+(currentSection * sectionSize)+i
+
+i =0  (currentSection * sectionSize)+i = (0 * 5) + 0 =0
+i =1  (currentSection * sectionSize)+i= (0 * 5) + 1=1
+i =2  (currentSection * sectionSize)+i=(0 * 5) +2=2
+i =3  (currentSection * sectionSize)+i=(0 * 5) +3=3
+i =4  (currentSection * sectionSize)+i=(0 * 5) +4=4
+
+
+Section 1 Section size 5
+
+(currentSection * sectionSize)+i
+
+i =0  (currentSection * sectionSize)+i = (1 * 5) + 0 =5
+i =1  (currentSection * sectionSize)+i= (1* 5) + 1=6
+i =2  (currentSection * sectionSize)+i=(1 * 5) +2=7
+i =3  (currentSection * sectionSize)+i=(1 * 5) +3=8
+i =4  (currentSection * sectionSize)+i=(1 * 5) +4=9
+
+Section 2 Section size 5
+
+(currentSection * sectionSize)+i
+
+i =0  (currentSection * sectionSize)+i = (2 * 5) + 0 =10
+i =1  (currentSection * sectionSize)+i= (2* 5) + 1=11
+i =2  (currentSection * sectionSize)+i=(2 * 5) +2=12
+i =3  (currentSection * sectionSize)+i=(2 * 5) +3=13
+i =4  (currentSection * sectionSize)+i=(2 * 5) +4=14
+
+
+
+15
+16
